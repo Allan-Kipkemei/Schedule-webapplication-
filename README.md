@@ -1,5 +1,11 @@
 # ToDo App with React+Django
 
+
+some screenshots
+
+![Screenshot (147)](https://github.com/Allan-Kipkemei/Schedule-webapplication-/assets/73424910/6025a0b7-8942-4176-9276-b15ebd274403)
+![Screenshot (148)](https://github.com/Allan-Kipkemei/Schedule-webapplication-/assets/73424910/26601560-6027-4e34-b539-09cf8a2a9765)
+
 Simple to do app with implementation of a backend and a frontend to make it more dynamic.
 <br>
 
