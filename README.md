@@ -7,7 +7,7 @@ some screenshots
 ![Screenshot (148)](https://github.com/Allan-Kipkemei/Schedule-webapplication-/assets/73424910/3c327010-4f37-49a1-80a8-6df6d103fa63)
 
 
-Simple to do app with implementation of a backend and a frontend to make it more dynamic.
+JUST A VERY SIMPLE TO DO
 <br>
 
 # Usage & Implementation
